@@ -2,4 +2,4 @@
 
 My name is Riley and I like to design, code, and tinker with technologies.
 
-Check out my website to see what I've been up to lately 🤘
+Check out my [portfolio website](https://rileyperalta.com/) to see what I've been up to lately.
