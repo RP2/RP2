@@ -1,23 +1,11 @@
-<pre>
-RP2(1)                       User Commands                        RP2(1)
+Part-time developer  
+hobbyist photographer  
+full time grad student  
 
-NAME
-    Riley Peralta: builder, photographer, therapist-in-training
-
-SYNOPSIS
-    <a href="https://rileyperalta.com">rileyperalta.com</a>
-
-DESCRIPTION
-    Sometimes builds websites and contributes to open source
-    projects. Now an MFT grad student.
-
-FILES
-    <a href="https://rileyperalta.com/blog/">/blog</a>        Writing
-    <a href="https://rileyperalta.com/gallery/">/gallery</a>     Photos
-
-SEE ALSO
-    <a href="https://rileyperalta.com/now">/now</a>         Current status
-</pre>
+<a href="https://rileyperalta.com/blog/">/blog</a>
+<a href="https://rileyperalta.com/gallery/">/gallery</a>
+<a href="https://rileyperalta.com/now">/now</a>
+    
 <!--
 You found the easter egg. There's no prize.
 -->
