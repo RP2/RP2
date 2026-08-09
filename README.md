@@ -1,6 +1,6 @@
 Part-time developer  
 hobbyist photographer  
-full time grad student  
+full-time grad student  
 
 <a href="https://rileyperalta.com/blog/">/blog</a>
 <a href="https://rileyperalta.com/gallery/">/gallery</a>
